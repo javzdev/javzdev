@@ -1,46 +1,113 @@
-# ¡Hola! Soy José Pablo Álvarez 👋
+<h1 align="center">José Pablo Álvarez</h1>
 
-Estudiante de **Ingeniería de Sistemas** y desarrollador orientado a crear productos digitales útiles, con interés en **desarrollo web**, **inteligencia artificial**, **automatización** y **trading algorítmico**.
+<p align="center">
+  <strong>Software Engineering Student · Full-Stack & AI-Oriented Developer</strong><br/>
+  Building practical digital products with a focus on web platforms, automation and applied AI.
+</p>
 
-Me gusta aprender construyendo: desde sistemas de gestión y paneles informativos hasta prototipos web con backend, bases de datos e integraciones con IA.
-
-- 🌱 Actualmente fortaleciendo mis habilidades en desarrollo full-stack, modelos de lenguaje e inglés profesional.
-- 🤖 Explorando IA aplicada, prompts, automatización y experiencias interactivas.
-- 📈 Interesado en análisis de mercados y trading algorítmico.
-- 💼 Buscando oportunidades de **pasantías remotas** en desarrollo de software.
-- 📫 Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/josepabloalvarez/).
+<p align="center">
+  <a href="https://www.linkedin.com/in/josepabloalvarez/">LinkedIn</a>
+  ·
+  <a href="https://github.com/javzdev/">GitHub</a>
+</p>
 
 ---
 
-## 🚀 Áreas de interés
+### About
 
-- Desarrollo de aplicaciones web y productos digitales
-- Inteligencia artificial y modelos de lenguaje
-- Backend, bases de datos y APIs
-- Automatización y scripts
-- Trading algorítmico y análisis de datos
-- Three.js y experiencias 3D
-- Computación cuántica
+I am a Systems Engineering student based in Costa Rica, focused on turning ideas into functional software products. My work centers on full-stack development, backend architecture, databases and the practical application of artificial intelligence.
 
-## 🛠️ Tecnologías y herramientas
+I am particularly interested in building tools that solve real operational problems: management systems, content platforms, automation workflows and data-driven applications.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+Currently, I am strengthening my profile through hands-on projects, professional English development and preparation for remote software engineering internships.
 
-## 🧩 Proyectos destacados
+---
 
-- **Sistema de gestión para barberías** — Aplicación para administrar clientes, citas y operaciones de un negocio.
-- **Panel de noticias e información sobre IA** — Plataforma para centralizar noticias, tutoriales y recursos de inteligencia artificial.
-- **Prototipos web con backend y bases de datos** — Proyectos prácticos enfocados en arquitectura, funcionalidad y experiencia de usuario.
-- **Scripts de análisis para trading** — Herramientas para explorar datos, estrategias y automatización de análisis de mercados.
+### Focus Areas
 
-## 📫 Contacto
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josepabloalvarez/)
-[![GitHub](https://img.shields.io/badge/GitHub-javzdev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javzdev/)
+**Software Development**
+
+- Full-stack web applications
+- REST APIs and backend services
+- Relational databases and data modeling
+- Authentication, dashboards and admin systems
+- Clean, maintainable and scalable architecture
+
+  </td>
+  <td valign="top" width="50%">
+
+**AI & Automation**
+
+- Applied artificial intelligence
+- Large language models and prompt engineering
+- AI-assisted content platforms
+- Process automation and scripting
+- Algorithmic trading and market analysis
+
+  </td>
+</tr>
+</table>
+
+---
+
+### Selected Work
+
+| Project | Description | Domain |
+|---|---|---|
+| **Barbershop Management System** | A management platform designed to organize clients, appointments and core business operations. | Product / Full-stack |
+| **AI News & Learning Platform** | A centralized panel for AI news, tutorials, resources and curated technical content. | AI / Web |
+| **Web Prototypes & Backend Systems** | Practical applications built with databases, backend services and user-focused interfaces. | Full-stack |
+| **Trading Analysis Scripts** | Tools for market data exploration, strategy testing and automation-oriented analysis. | Data / Automation |
+
+---
+
+### Technical Stack
+
+**Languages**
+
+`JavaScript` · `TypeScript` · `Python` · `SQL` · `HTML` · `CSS`
+
+**Frontend**
+
+`React` · `Next.js` · `Tailwind CSS` · `Three.js`
+
+**Backend & Data**
+
+`Node.js` · `Express` · `PostgreSQL` · `MySQL` · `Prisma` · `REST APIs`
+
+**AI & Tooling**
+
+`OpenAI API` · `LangChain` · `Git` · `GitHub` · `Docker` · `Linux`
+
+---
+
+### Engineering Principles
+
+- Build for real users, not only for demonstrations.
+- Prioritize clarity, maintainability and measurable progress.
+- Learn deeply through implementation, testing and iteration.
+- Use AI as an accelerator for product development, not as a replacement for engineering judgment.
+
+---
+
+### Currently
+
+- Developing full-stack projects for my professional portfolio.
+- Deepening knowledge of AI integration, backend architecture and modern web development.
+- Exploring Three.js, interactive web experiences and quantitative analysis.
+- Open to remote internships and collaborative software projects.
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/josepabloalvarez/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/javzdev/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
